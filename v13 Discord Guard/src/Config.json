@@ -1,0 +1,22 @@
+{
+  "DATABASE": {
+    "URL": "mongodb+srv://deneme:deneme@cluster0.017tz.mongodb.net/deneme?retryWrites=true&w=majority",
+    "NAME": "orospucocu"
+  },
+  "BOTS": {
+    "TOKENS": ["OTU5MTczNTUxMTUwMjE1MjQ4.YkYB-w.AQk5z7QMkG40UHDlSLDJuvd5AdY"],
+    "MAIN_TOKEN": "OTU5NDYyNDA0NzA4NzczOTQ4.YkcO_w.m2VqTE5dYZzbgmHrl8qteG6X6FE",
+    "STATE": "v13 Guardian",
+    "AUTO_UPDATE": true
+  },
+  "SERVER": {
+    "GUILD_ID": "959173304504188948",
+    "VANITY_URL": "xd",
+    "VOICE_CHANNEL": "959174107545628702",
+    "LOG_CHANNEL": "959174114881466439"
+  },
+  "PERMISSIONS": {
+    "SAFE_USERS": ["807188813616775168"],
+    "SAFE_ROLES": ["959174273551978516"]
+  }
+}

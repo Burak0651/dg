@@ -1,0 +1,22 @@
+{
+  "name": "discord-guard-v13-main",
+  "version": "10.3.1",
+  "description": "Sunucunuzu korumanız için birebir guard. Çoklu token sayesinde hızlıca işlemlerinizi halledebilirsiniz.",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chillout": "^5.0.0",
+    "discord.js": "^13.3.1",
+    "mongoose": "^6.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wioniqle-q/discord-guard-v13.git"
+  }
+}
